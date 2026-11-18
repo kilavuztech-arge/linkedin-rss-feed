@@ -1,0 +1,21 @@
+{
+  "title": "Kılavuz Teknoloji – Siber Güvenlik & Yapay Zekâ Gündemi",
+  "description": "Siber güvenlik ve yapay zekâ kaynaklarından seçilmiş güncel haberler.",
+  "max_items": 40,
+  "max_per_source": 5,
+  "max_age_days": 7,
+  "sources": [
+    {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews"},
+    {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
+    {"name": "CISA", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+    {"name": "Dark Reading", "url": "https://www.darkreading.com/rss.xml"},
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+    {"name": "Webtekno", "url": "https://www.webtekno.com/rss.xml",
+     "keywords": ["siber", "güvenlik", "hack", "saldırı", "veri sızıntısı", "fidye", "yapay zeka", "yapay zekâ", "chatgpt", "openai", "gemini", "claude"]},
+    {"name": "ShiftDelete", "url": "https://shiftdelete.net/feed",
+     "keywords": ["siber", "güvenlik", "hack", "saldırı", "veri sızıntısı", "fidye", "yapay zeka", "yapay zekâ", "chatgpt", "openai", "gemini", "claude"]}
+  ]
+}
